@@ -1,4 +1,4 @@
-<img src = "https://github.com/foysal-codes/foysal-codes/blob/main/Purple%20and%20Pink%20Modern%20Digital%20marketing%20Agency%20Banner%20(1200%20x%20400%20px).png">
+<img src = ""D:\Downloads\Data Analyst Tech Workspace Banner.png"">
 <h1 align="center">Hi 👋, I'm Atik Foysal</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
