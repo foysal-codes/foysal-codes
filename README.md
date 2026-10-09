@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Atik Foysal</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=foysal-codes&label=Profile%20views&color=0e75b6&style=flat" alt="foysal-codes" /> </p>
+<p align="left"> <img src="htt"D:\Downloads\Data Analyst Tech Workspace Banner.png"" alt="foysal-codes" /> </p>
 
 - 🌱 I’m currently learning **Front-End Development with Ract**
 
