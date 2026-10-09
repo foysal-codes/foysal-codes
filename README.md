@@ -1,4 +1,4 @@
-<img src = ""D:\Downloads\Data Analyst Tech Workspace Banner.png"">
+<img src = "D:\Downloads\Data Analyst Tech Workspace Banner.png">
 <h1 align="center">Hi 👋, I'm Atik Foysal</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
